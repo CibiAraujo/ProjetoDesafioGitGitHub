@@ -1,6 +1,6 @@
 ### Desafio Git/GitHub:white_check_mark:
 
-##### Para realizar este projeto/desafio , explorei um pouco do _Markdown_ no Visual Studio Code. 
+##### Para realizar o projeto deste desafio, explorei um pouco do _Markdown_ no Visual Studio Code. 
   
 
 - #### <u>_Markdown:_</u>
